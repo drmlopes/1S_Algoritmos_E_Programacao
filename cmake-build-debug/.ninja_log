@@ -1,11 +1,6 @@
 # ninja log v6
-5	158	1732291806879815308	CMakeFiles/1S_Algoritmos_E_Programacao.dir/main.c.o	a2e058071bb49dc1
-158	292	1732291807032816697	1S_Algoritmos_E_Programacao	907f98689817e4c8
-2	128	1732291986714448168	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E1.c.o	e692f09a1461f19c
-2	100	1732292016076714765	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E1.c.o	e692f09a1461f19c
-101	223	1732292016174715655	1S_Algoritmos_E_Programacao	b050974d48b16c1e
-3	97	1732292088575373049	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E1.c.o	e692f09a1461f19c
-4	114	1732292774132273510	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E1.c.o	e692f09a1461f19c
-2	154	1732293220648006680	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E1.c.o	e692f09a1461f19c
-3	129	1732293399447504009	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E1.c.o	e692f09a1461f19c
 2	154	1732293492726285163	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E1.c.o	e692f09a1461f19c
+101	223	1732292016174715655	1S_Algoritmos_E_Programacao	b050974d48b16c1e
+5	158	1732291806879815308	CMakeFiles/1S_Algoritmos_E_Programacao.dir/main.c.o	a2e058071bb49dc1
+2	92	1732294918748580459	build.ninja	222d7979874e801c
+2	189	1732294734027935050	CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_1.c.o	f30ae938db10a470
