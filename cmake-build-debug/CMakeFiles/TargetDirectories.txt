@@ -1,0 +1,3 @@
+/home/drmlopes/CLionProjects/22000294/1S-Algoritmos-E-Programacao/cmake-build-debug/CMakeFiles/1S_Algoritmos_E_Programacao.dir
+/home/drmlopes/CLionProjects/22000294/1S-Algoritmos-E-Programacao/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/drmlopes/CLionProjects/22000294/1S-Algoritmos-E-Programacao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
