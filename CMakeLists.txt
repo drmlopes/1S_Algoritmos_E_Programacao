@@ -11,4 +11,5 @@ add_executable(1S_Algoritmos_E_Programacao main.c
         LE1-A3/E_5.c
         LE1-A3/E_6.c
         LE1-A3/E_7.c
-        LE1-A3/E_8.c)
+        LE1-A3/E_8.c
+        LE2-A5/E_1.c)
