@@ -25,13 +25,13 @@ int main(void) {
     if (nota < 0 || nota > 10)
         printf("Nota Inválida!\a\n\n");
     else if (nota >= 0 && nota <= 5)
-        printf("Nota: %.2f\nConceito: D\n\n", nota);
+        printf("Nota: %.2f\n\nConceito: D\n\n", nota);
     else if (nota <= 7)
-        printf("Nota: %.2f\nConceito: C\n\n", nota);
+        printf("Nota: %.2f\n\nConceito: C\n\n", nota);
     else if (nota <= 9)
-        printf("Nota: %.2f\nConceito: B\n\n", nota);
+        printf("Nota: %.2f\n\nConceito: B\n\n", nota);
     else
-        printf("Nota: %.2f\nConceito: A\n\n", nota);
+        printf("Nota: %.2f\n\nConceito: A\n\n", nota);
 
     return 0;
 }
