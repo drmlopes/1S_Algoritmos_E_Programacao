@@ -199,6 +199,12 @@ build CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_9.c.o: C_COMPILER__1
   OBJECT_DIR = CMakeFiles/1S_Algoritmos_E_Programacao.dir
   OBJECT_FILE_DIR = CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2
 
+build CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_10.c.o: C_COMPILER__1S_Algoritmos_E_Programacao_unscanned_Debug /home/drmlopes/CLionProjects/22000294/1S-Algoritmos-E-Programacao/LE3-S2/E_4_10.c || cmake_object_order_depends_target_1S_Algoritmos_E_Programacao
+  DEP_FILE = CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_10.c.o.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles/1S_Algoritmos_E_Programacao.dir
+  OBJECT_FILE_DIR = CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 1S_Algoritmos_E_Programacao
@@ -207,7 +213,7 @@ build CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_9.c.o: C_COMPILER__1
 #############################################
 # Link the executable 1S_Algoritmos_E_Programacao
 
-build 1S_Algoritmos_E_Programacao: C_EXECUTABLE_LINKER__1S_Algoritmos_E_Programacao_Debug CMakeFiles/1S_Algoritmos_E_Programacao.dir/main.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_1.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_2.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_3.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_4.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_5.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_6.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_7.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_8.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_1.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_2.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_3.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_4.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_5.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_6.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_7.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_1.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_2.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_3.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_4.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_5.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_6.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_7.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_8.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_9.c.o
+build 1S_Algoritmos_E_Programacao: C_EXECUTABLE_LINKER__1S_Algoritmos_E_Programacao_Debug CMakeFiles/1S_Algoritmos_E_Programacao.dir/main.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_1.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_2.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_3.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_4.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_5.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_6.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_7.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE1-A3/E_8.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_1.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_2.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_3.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_4.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_5.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_6.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE2-A5/E_7.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_1.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_2.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_3.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_4.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_5.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_6.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_7.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_8.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_9.c.o CMakeFiles/1S_Algoritmos_E_Programacao.dir/LE3-S2/E_4_10.c.o
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/1S_Algoritmos_E_Programacao.dir
   POST_BUILD = :
