@@ -22,4 +22,5 @@ add_executable(1S_Algoritmos_E_Programacao main.c
         LE3-S2/E_4_1.c
         LE3-S2/E_4_2.c
         LE3-S2/E_4_3.c
-        LE3-S2/E_4_4.c)
+        LE3-S2/E_4_4.c
+        LE3-S2/E_4_5.c)
